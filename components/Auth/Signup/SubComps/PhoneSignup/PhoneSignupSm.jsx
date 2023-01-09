@@ -41,7 +41,7 @@ const PhoneSignupSm = (props) => {
         </div>
       </div>
       {/* Bottom  */}
-      <div className=" w-full xs:max-w-[400px] flex flex-col items-center justify-end gap-2 px-5 py-[70px]">
+      <div className=" w-full xs:max-w-[400px] flex flex-col items-center justify-end gap-2 px-5 py-[90px]">
         {/* Logo */}
         <div className="w-[130px] h-[45px] flex items-center justify-center relative object-contain">
           <Image src="/images/logo/logo-sm.png" alt="" fill />
