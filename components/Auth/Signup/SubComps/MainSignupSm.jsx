@@ -16,7 +16,7 @@ const MainSignupSm = (props) => {
 
   return (
     <div className="min-w-[100vw]  min-h-[100vh] flex sm:hidden flex-col items-center justify-end  bg-[url('/images/auth/bg-small.png')] bg-cover bg-no-repeat bg-center">
-      <div className="w-full max-w-[400px] flex flex-col items-center justify-end gap-2 px-5 py-10">
+      <div className="w-full max-w-[400px] flex flex-col items-center justify-end gap-2 px-5 py-[70px]">
         {/* Logo */}
         <div className="w-[130px] h-[45px] flex items-center justify-center relative object-contain">
           <Image src="/images/logo/logo-sm.png" alt="" fill />
